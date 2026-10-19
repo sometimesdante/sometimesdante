@@ -6,19 +6,20 @@ Open to **forward deployed, integration and product roles** in Bangalore or Chen
 
 ### Featured
 
-| | |
+| Project | What it is |
 |---|---|
 | **[Tillwright](https://github.com/sometimesdante/tillwright)** | Commerce for your Supabase app. Started as a store for a grocery client, now an open template: Razorpay with server-side verification, cash on delivery, GST invoices as PDF, WhatsApp and email order updates. [Live demo](https://tillwright.vercel.app) |
-| **[Dive](https://github.com/sometimesdante/dive.ai)** | End-to-end product on Next.js and Supabase, with an editor and AI features. |
+| **[Dive](https://github.com/sometimesdante/dive.ai)** | Project management suite built on Next.js and Supabase. [Live](https://www.projectdive.app) |
 | **[Hermes](https://github.com/sometimesdante/hermes)** | Desktop PDF app built with Tauri, Rust and TypeScript. |
 | **Forge** | Rank tracker: scraping, scheduled jobs and data pipelines for SEO. |
 | **Wisp CRM** | An AI-powered email marketing suite for small businesses, from concept to product design. [Case study](https://www.lalithkishore.info/case-studies/designing-an-ai-powered-email-marketing-suite-for-smes) |
 
 ### Now
 
+- Taking Dive, my project management suite, to production: usability improvements and ongoing maintenance
 - Turning Tillwright into a lightweight, Supabase-native alternative to Medusa
 - Just shipped: moved a client's compliance triage workflows from Power Apps onto the Claude API
-- 
+
 ### Stack
 
 TypeScript, Next.js, React, Supabase and Postgres, Node, Rust (Tauri), Razorpay, Resend, Claude API, WhatsApp Cloud API, Vercel
