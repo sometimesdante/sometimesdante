@@ -11,7 +11,7 @@ Open to **forward deployed, integration and product roles** in Bangalore or Chen
 | **[Tillwright](https://github.com/sometimesdante/tillwright)** | Commerce for your Supabase app. Started as a store for a grocery client, now an open template: Razorpay with server-side verification, cash on delivery, GST invoices as PDF, WhatsApp and email order updates. [Live demo](https://tillwright.vercel.app) |
 | **[Dive](https://github.com/sometimesdante/dive.ai)** | End-to-end product on Next.js and Supabase, with an editor and AI features. |
 | **[Hermes](https://github.com/sometimesdante/hermes)** | Desktop PDF app built with Tauri, Rust and TypeScript. |
-| **Forge** (private) | Rank tracker: scraping, scheduled jobs and data pipelines for SEO. |
+| **Forge** | Rank tracker: scraping, scheduled jobs and data pipelines for SEO. |
 | **Wisp CRM** | An AI-assisted CRM, from concept to product design. [Case study](https://www.lalithkishore.info/case-studies/designing-an-ai-powered-email-marketing-suite-for-smes) |
 
 ### Now
