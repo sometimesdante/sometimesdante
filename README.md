@@ -12,7 +12,7 @@ Open to **forward deployed, integration and product roles** in Bangalore or Chen
 | **[Dive](https://github.com/sometimesdante/dive.ai)** | End-to-end product on Next.js and Supabase, with an editor and AI features. |
 | **[Hermes](https://github.com/sometimesdante/hermes)** | Desktop PDF app built with Tauri, Rust and TypeScript. |
 | **Forge** (private) | Rank tracker: scraping, scheduled jobs and data pipelines for SEO. [Write-up](https://www.lalithkishore.info/projects/forge) |
-| **Wisp CRM** | An AI-assisted CRM, from concept to product design. [Case study](https://www.lalithkishore.info/WISP-CASE-STUDY-PATH) |
+| **Wisp CRM** | An AI-assisted CRM, from concept to product design. [Case study](https://www.lalithkishore.info/case-studies/designing-an-ai-powered-email-marketing-suite-for-smes) |
 
 ### Now
 
