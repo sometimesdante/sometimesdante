@@ -12,17 +12,17 @@ Open to **forward deployed, integration and product roles** in Bangalore or Chen
 | **[Dive](https://github.com/sometimesdante/dive.ai)** | End-to-end product on Next.js and Supabase, with an editor and AI features. |
 | **[Hermes](https://github.com/sometimesdante/hermes)** | Desktop PDF app built with Tauri, Rust and TypeScript. |
 | **Forge** | Rank tracker: scraping, scheduled jobs and data pipelines for SEO. |
-| **Wisp CRM** | An AI-assisted CRM, from concept to product design. [Case study](https://www.lalithkishore.info/case-studies/designing-an-ai-powered-email-marketing-suite-for-smes) |
+| **Wisp CRM** | An AI-powered email marketing suite for small businesses, from concept to product design. [Case study](https://www.lalithkishore.info/case-studies/designing-an-ai-powered-email-marketing-suite-for-smes) |
 
 ### Now
 
 - Turning Tillwright into a lightweight, Supabase-native alternative to Medusa
-- Just shipped: moved a compliance triage Power Apps workflows onto the Claude API
-
+- Just shipped: moved a client's compliance triage workflows from Power Apps onto the Claude API
+- 
 ### Stack
 
-TypeScript, Next.js, React, Supabase and Postgres, Node, Rust (Tauri), Razorpay, Resend, WhatsApp Cloud API, Vercel
+TypeScript, Next.js, React, Supabase and Postgres, Node, Rust (Tauri), Razorpay, Resend, Claude API, WhatsApp Cloud API, Vercel
 
 ### Elsewhere
 
-[lalithkishore.info](https://www.lalithkishore.info) · [LinkedIn](https://www.linkedin.com/in/sometimesdante/) · [Email](mailTo:lalithkishore@proton.me)
+[lalithkishore.info](https://www.lalithkishore.info) · [LinkedIn](https://www.linkedin.com/in/sometimesdante/) · [Email](mailto:lalithkishore@proton.me)
