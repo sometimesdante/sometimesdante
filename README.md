@@ -25,4 +25,4 @@ TypeScript, Next.js, React, Supabase and Postgres, Node, Rust (Tauri), Razorpay,
 
 ### Elsewhere
 
-[lalithkishore.info](https://www.lalithkishore.info) · [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/sometimesdante/)) · [Email](mailTo:lalithkishore@proton.me)) 
+[lalithkishore.info](https://www.lalithkishore.info) · [LinkedIn]((https://www.linkedin.com/in/sometimesdante/)) · [Email](mailTo:lalithkishore@proton.me)
